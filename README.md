@@ -1,6 +1,6 @@
-# Web Development Resources
-A collection of resources to learn Laravel PHP framework and related concepts.
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. :)
+# Learn web development resources
+A collection of resources to learn **Front-end** and **Back-end** development and also it's related concepts.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 
 - [Tutorials](#tutorials)
     - [Front-End](#front-end)
