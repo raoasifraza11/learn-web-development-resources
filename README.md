@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
         - [CSS](#css)
         - [JavaScript](#javascript)
         - [jQuery](#jquery)
+        - [PSD to HTML](#psd-to-html)
     - [Back-End](#back-end)
         - [PHP Basic](#php-basic)
         - [Object Oriented in PHP](#object-oriented-in-php)
@@ -35,6 +36,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [HTML5 Basic](http://www.w3schools.com/html/) - an introduction about HTML5 and basic concepts.
 * [Learn the basics of HTML](https://www.udemy.com/html-in-1-hour/) - Learn HTML in a hour for free!.
 * [Learn Html5 & CSS3 from scratch](https://www.udemy.com/learn-html5-css3-from-scratch/learn/v4/overview) - Learn Html5 & CSS3 from scratch-Embrace the New Global Standard.
+* [HTML Start Here (&#9658;$)](https://webdesign.tutsplus.com/courses/start-here-learn-html-basics) - The most critical first step to becoming a web designer is learning how to code HTML.
+
 
 
 #### CSS
@@ -65,6 +68,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [jQuery](https://www.codeschool.com/learn/javascript) - These courses take you from your very first jQuery selector all the way through more advanced topics, such as promises and Ajax calls.
 * [jQuery UI](http://jqueryui.com) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.
 
+#### PSD to HTML
+*Tutorial about Psd to HTML/CSS Convert techniques and concepts*
+
+* [PSD To HTML Beginner](https://www.udemy.com/web-development-learn-by-doing-html5-css3-from-scratch-introductory/?sl=E0EeeFw9RBMDLEwzBwZX) - Web Development By Doing: HTML / CSS From Scratch.
 
 ### Back-End 
 *Back End Web Development Programming.*
@@ -139,6 +146,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 *Videos Tutorials Collection*
 
 * [Build Your First Laravel App](https://selftaughtcoders.com/free-laravel-course/?utm_source=quora&utm_medium=post&utm_campaign=What+are+the+best+online+web+development+courses%3F) - A free 5-day video course with lessons to help you build your very own, first Laravel  PHP web application, step by step.
+* [Top Ten Psd to HTML Conversion](http://www.toptentrends.net/10-best-psd-html-conversion-tutorials/) - 10 best PSD to HTML conversion tutorials.
 
 ## Slides
 *Slides about web-development programming and related concepts.*
