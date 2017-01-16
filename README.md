@@ -37,7 +37,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Learn the basics of HTML](https://www.udemy.com/html-in-1-hour/) - Learn HTML in a hour for free!.
 * [Learn Html5 & CSS3 from scratch](https://www.udemy.com/learn-html5-css3-from-scratch/learn/v4/overview) - Learn Html5 & CSS3 from scratch-Embrace the New Global Standard.
 * [HTML Start Here (&#9658;$)](https://webdesign.tutsplus.com/courses/start-here-learn-html-basics) - The most critical first step to becoming a web designer is learning how to code HTML.
-* [beginner to employed web developer (&#9658;$)](https://www.thinkful.com/bootcamp/web-development/flexible/).
+* [Beginner to employed web developer (&#9658;$)](https://www.thinkful.com/bootcamp/web-development/flexible/).
 
 
 
