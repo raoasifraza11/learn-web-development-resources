@@ -46,6 +46,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 
 * [CSS Basic](http://www.w3schools.com/css/default.asp) - an introduciton about CSS and basic concepts.
 * [Introduction to CSS Development](https://www.udemy.com/refactoru-intro-to-css/learn/v4/overview) - Cascading Style Sheets, or CSS, is how we control what a website looks like, including colors, layouts, fonts, and more!.
+* [CSS Tricks](https://css-tricks.com) - Fixing in CSS optimized tutorial.
 
 
 #### JavaScript
