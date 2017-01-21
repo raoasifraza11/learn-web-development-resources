@@ -38,6 +38,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Learn Html5 & CSS3 from scratch](https://www.udemy.com/learn-html5-css3-from-scratch/learn/v4/overview) - Learn Html5 & CSS3 from scratch-Embrace the New Global Standard.
 * [HTML Start Here (&#9658;$)](https://webdesign.tutsplus.com/courses/start-here-learn-html-basics) - The most critical first step to becoming a web designer is learning how to code HTML.
 * [Beginner to employed web developer (&#9658;$)](https://www.thinkful.com/bootcamp/web-development/flexible/).
+* [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and other technologies in various browsers.
+* [MDN HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - To build websites, you should know about HTML.
 
 
 
@@ -47,6 +49,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [CSS Basic](http://www.w3schools.com/css/default.asp) - an introduciton about CSS and basic concepts.
 * [Introduction to CSS Development](https://www.udemy.com/refactoru-intro-to-css/learn/v4/overview) - Cascading Style Sheets, or CSS, is how we control what a website looks like, including colors, layouts, fonts, and more!.
 * [CSS Tricks](https://css-tricks.com) - Fixing in CSS optimized tutorial.
+* [MDN CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Cascading Stylesheets — or CSS — is the second technology you should start learning after HTML.
 
 
 #### JavaScript
@@ -61,6 +64,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [JavaScript Language](https://www.codeschool.com/learn/javascript) - Spend some time with this powerful scripting language and learn to build lightweight applications with enhanced user interfaces.
 * [Learn js](http://www.learn-js.org) - learn-js interactive JavaScript tutorial.
 * [Learning Full-Stack JavaScript Development: MongoDB, Node and React (&#9658;$)](https://www.lynda.com/Express-js-tutorials/Learning-Full-Stack-JavaScript-Development-MongoDB-Node-React/533304-2.html) - Learn by doing! Learn full-stack JavaScript development by building a web application with MongoDB, Node.js, and React.js.
+* [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) - JavaScript is a programming language that allows you to implement complex things on web pages.
 
 
 #### jQuery
